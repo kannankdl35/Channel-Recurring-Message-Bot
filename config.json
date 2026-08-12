@@ -1,0 +1,7 @@
+{
+  "bot_token": "PASTE_YOUR_BOT_TOKEN_HERE",
+  "channel_id": "@your_channel_username_or_-100xxxxxxxxxx",
+  "owner_id": 123456789,
+  "message_text": "This is your recurring message.",
+  "interval_minutes": 1
+}
